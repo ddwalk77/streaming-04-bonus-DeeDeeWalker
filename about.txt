@@ -1,0 +1,44 @@
+
+
+==============================================================
+==============================================================
+
+ Welcome! 
+
+ It's 2023-02-05 at 02:45 PM
+
+ This file is running on:    nt Windows 10
+ 
+ The Python version is:      3.10.9
+ 
+ The Python interpreter is at: 
+ C:\Users\ddwal\anaconda3\envs\firstvrtenv\python.exe
+
+ The active environment should be either conda OR pip (one should be None):
+
+     Active conda env is: firstvrtenv
+     Active pip env is:   None
+ 
+ The path to the active virtual environment is:
+
+ C:\Users\ddwal\anaconda3\envs\firstvrtenv
+ 
+ The Current Working Directory (CWD) where this command was launched is:
+
+ C:\Users\ddwal\Documents\MSDA\44-671_Streaming_Data\Mod4\streaming-04-bonus-DeeDeeWalker
+ 
+ The absolute path to the data directory is:
+
+ C:\Users\ddwal\Documents\MSDA\44-671_Streaming_Data\Mod4\streaming-04-bonus-DeeDeeWalker\
+ 
+ The absolute path to this source directory is:
+
+ c:\Users\ddwal\Documents\MSDA\44-671_Streaming_Data\Mod4\streaming-04-bonus-DeeDeeWalker
+ 
+ The absolute path to this file is:
+
+ c:\Users\ddwal\Documents\MSDA\44-671_Streaming_Data\Mod4\streaming-04-bonus-DeeDeeWalker\about.py
+ 
+==============================================================
+==============================================================
+
