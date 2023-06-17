@@ -1,9 +1,3 @@
-# streaming-04-bonus-DeeDeeWalker
-Read multi-column csv with data from each column distributed to different queues after a transformation of the data is completed
-
-## Name: DeeDee Walker
-## Date: 2/5/23
-
 Original data: https://www.kaggle.com/datasets/jimschacko/airlines-dataset-to-predict-a-delay
 Data was reduced to 8 lines plus the original header for simplicity
 
